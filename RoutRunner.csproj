@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>RoutRunner</RootNamespace>
+    <AssemblyName>RoutRunner</AssemblyName>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <Version>1.1.0</Version>
+    <Product>RoutRunner</Product>
+    <Company>dj</Company>
+    <AssemblyTitle>RoutRunner â€” 9Router / OmniRoute tray supervisor</AssemblyTitle>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+</Project>
+
